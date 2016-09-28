@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://certificaciondeescuelas.github.io"
+url: "https://acad-info.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -31,7 +31,7 @@ force-https: True
 
 lang: "es"
 author: "Gerardo G. Reyes"
-title: "{ Certificación de Escuelas }"
+title: "{ Academia de Informática del Instituto Tecnológico de Iztapalapa III }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "certificacion, escuelas, escuelas privadas, escuelas particulares"
 favicon: "/img/favicon.ico"
